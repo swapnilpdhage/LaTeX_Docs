@@ -1,0 +1,7 @@
+\documentclass{report}
+
+\title{fisrt code latex}
+\author
+\begin{document}
+\maketitle
+\end{document}
